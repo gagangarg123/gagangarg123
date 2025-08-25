@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gagan_garg24737" target="blank"><img src="https://img.shields.io/twitter/follow/@gagan_garg24737?logo=twitter&style=for-the-badge" alt="@gagan_garg24737" /></a> </p>
 
-- 🌱 I’m currently learning **c language**
+- 🌱 I’m currently learning **DSA,SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gagan-g-04220428a/](https://www.linkedin.com/in/gagan-g-04220428a/)
 
